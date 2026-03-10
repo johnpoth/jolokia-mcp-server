@@ -117,7 +117,7 @@ Or if you prefer using [JBang](https://www.jbang.dev/) (no need for downloading 
 
 Download the MCP server javaagent jar:
 
-- [jolokia-mcp-agent-jvm-0.5.0-javaagent.jar](https://github.com/jolokia/jolokia-mcp-server/releases/download/v0.5.0/jolokia-mcp-agent-jvm-0.5.0-javaagent.jar)
+- [jolokia-mcp-agent-jvm-0.5.0-javaagent.jar](https://repo1.maven.org/maven2/org/jolokia/mcp/jolokia-mcp-agent-jvm/0.5.0/jolokia-mcp-agent-jvm-0.5.0-javaagent.jar)
 
 Then run your Java application with `-javaagent` option:
 
